@@ -1,0 +1,10 @@
+Buttermilk,2.00,
+Half & Half,0.95,
+Milk 1%,1.95,
+Milk 2%,2.95,
+Milk Skim,1.55,
+Milk Whole,2.95,
+
+
+
+

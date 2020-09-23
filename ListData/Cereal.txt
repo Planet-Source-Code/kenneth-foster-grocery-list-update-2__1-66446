@@ -1,0 +1,13 @@
+Bran Flakes,3.95,
+Corn Flakes,2.95,
+Cream of Wheat,1.95,
+Oat Bran,2.95,
+Oatmeal,1.50,
+Puffed Rice,2.50,
+Raisin Bran,2.50,
+Shredded Wheat,2.50,
+
+
+
+
+

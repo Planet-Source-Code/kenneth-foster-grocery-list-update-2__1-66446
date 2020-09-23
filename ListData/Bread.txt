@@ -1,0 +1,11 @@
+Banana Nut Bread,1.05,
+Corn Torillas,1.00,
+English Muffins,0.95,
+Flour Torillas,1.00,
+French Loaf,2.05,
+Garlic Bread,1.95,
+Pumpernickel,1.50,
+White Bread,1.35,
+Whole Wheat,2.05,
+
+

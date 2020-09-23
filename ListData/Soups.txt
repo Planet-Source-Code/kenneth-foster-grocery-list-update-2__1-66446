@@ -1,0 +1,13 @@
+Beef Broth,0.45,
+Beef Noodle,0.50,
+Beef Stew,1.30,
+Chicken Broth,0.45,
+Chicken Noodle Soup,0.55,
+Cream of Celery,0.65,
+Chicken,0.60,
+Cream of Mushroom,0.65,
+Tomato Soup,0.55,
+
+
+
+

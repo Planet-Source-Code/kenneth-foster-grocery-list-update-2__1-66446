@@ -1,0 +1,16 @@
+Barq's,1.05,
+Canada Dry,2.15,
+Coca-Cola,1.95,
+Crush,1.00,
+Dr Pepper,1.95,
+Fanta,1.95,
+Hires,1.00,
+Kool-Aid,1.00,
+Minute Maid,1.00,
+Mountain Dew,1.05,
+Pepsi,1.29,
+RC Cola,1.09,
+Sprite,1.29,
+Tab,1.95,
+
+
